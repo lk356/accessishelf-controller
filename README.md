@@ -5,9 +5,9 @@ Control software for **Accessishelf**, a retrofit, remote-controlled cabinet she
 Over 110 million Americans have limited vertical mobility, and a standard kitchen cabinet's lowest shelf starts around 54 in, above the 48 in ADA reach limit for wheelchair users. Accessishelf is meant to bring that shelf down to the user and put it back with one button on a Bluetooth remote.
 
 ## Photos of completed build
-`![IMG1](https://raw.githubusercontent.com/lk356/accessishelf-controller/refs/heads/main/docs/IMG1.jpg?token=GHSAT0AAAAAAEJFHDZVDA276ZOM34PFIH7Q2WNXFSA)`
-`![IMG2](https://raw.githubusercontent.com/lk356/accessishelf-controller/refs/heads/main/docs/IMG2.jpg?token=GHSAT0AAAAAAEJFHDZVY7PGBUUDEADC7QZE2WNXFYQ)`
-`![IMG3](https://raw.githubusercontent.com/lk356/accessishelf-controller/refs/heads/main/docs/IMG3.jpg?token=GHSAT0AAAAAAEJFHDZVAWRAPCW7BBWTKQNA2WNXF6Q)`
+<img width="896" height="1190" alt="signal-2026-10-13-00-45-57-051_002" src="https://github.com/user-attachments/assets/d8bf03ca-9bde-48f6-a40b-5188bd1fe980" />
+<img width="1542" height="2048" alt="signal-2026-10-13-00-45-41-348_002" src="https://github.com/user-attachments/assets/67a95e9f-6baf-4e12-9061-30380c0cd287" />
+<img width="768" height="1384" alt="signal-2026-10-13-00-45-57-051" src="https://github.com/user-attachments/assets/6a71b726-ade3-423e-b7ad-bc8242f439a9" />
 
 
 ## How it works
