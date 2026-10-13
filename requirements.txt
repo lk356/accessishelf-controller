@@ -1,0 +1,5 @@
+python-can
+evdev
+pigpio
+# The code does "import smbus". Install it with apt, not pip:
+#   sudo apt install python3-smbus
